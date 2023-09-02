@@ -10,6 +10,6 @@ public class b12 {
             pi += Math.pow(-1, i)*(1.0/(2*i+1));
         }
         pi *= 4;
-        System.out.println(pi);
+        System.out.println("pi= " +pi);
     }
 }
